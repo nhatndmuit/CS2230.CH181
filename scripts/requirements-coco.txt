@@ -1,0 +1,7 @@
+numba==0.40.0
+llvmlite==0.32.1
+pycocotools
+numpy
+torch==1.13.1
+pillow
+tqdm
