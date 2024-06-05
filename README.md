@@ -1,7 +1,7 @@
 # CS2230.CH181
 
 ## Information
-- Course: NT2203.CH1702
+- Course: CS2230.CH181
 - Members:
   - 230202023 - Lê Đăng Dũng
   - 220202020 - Nguyễn Duy Minh Nhật
